@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @learner-Piyush
 - 👀 I’m interested in gaming and studies
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sciencetechoindia@gmail.com
 - 😄 Pronouns: he/him
