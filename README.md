@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @learner-Piyush
 - 👀 I’m interested in gaming and studies
-- 🌱 I’m currently learning Backend Development with MERN
+- 🌱 I’m currently learning Full-Stack Development with MERN and Next.JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sciencetechoindia@gmail.com
 - 😄 Pronouns: he/him
