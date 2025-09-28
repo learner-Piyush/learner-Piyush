@@ -1,6 +1,11 @@
-# 👋 Hi, I’m @learner-Piyush:
-🔭 I'm currently working on Haldia Institute of Technology as a student<br>👯 I'm looking to collaborate on Full-Stack Web Development Projects<br>🤝 I'm looking for help with Hackathons<br>🌱 I'm currently learning Full-Stack Development with MERN and Next.JS<br>💬 Ask me about: What and how am I coding and gaming?<br>⚡ Fun fact: Currently I'm a beginner but I want to learn more and more to be a software engineer
+# 👋 Hi, I’m @learner-Piyush
 
+- 👀 I’m interested in gaming and studies
+- 🌱 I’m currently learning Full-Stack Development with MERN and Next.JS
+- 💞️ I’m looking to collaborate on Web Development projects
+- 📫 How to reach me sciencetechoindia@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Currently I'm a beginner but I want to learn more and more to be a software engineer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyushraj200) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-raj-371200244) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/piyush_raj_1) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/piyush_raj_1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sciencetechoindia@gmail.com) 
